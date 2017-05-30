@@ -1,0 +1,21 @@
+# Site settings
+title: Tyler Gotto
+header-img: img/home-bg.png
+email: tylergotto17@gmail.com
+copyright_name: TGots7
+description: > # this means to ignore newlines until "baseurl:"
+  Life after pro hockey
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  TGots7
+learn_profile: TGots7
+email_username: tylergotto17@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
