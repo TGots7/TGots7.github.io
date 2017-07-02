@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finding the right balance"
-date:   2017-07-02 13:22:28 +0000
+date:   2017-07-02 09:22:29 -0400
 ---
 
  I go for a run, I am thinking about how to solve a problem in my code. I am at dinner, I am thinking about how I can improve how I scrape and save this data. That is where I am in my coding journey currently, I have so much enthusiasm for learning and I want to do it as fast as possible. The one little problem I have thrown in to my circumstances is life! I may not have chose the best time to start the program, one week after retiring from my first career, a week before moving back to the USA after 6 years of living in Europe and 6 weeks before my wedding, which anyone who has been through knows takes a bit of effort leading up to.  But beyond those life events that are making my time more scarce my mind it constantly set on my task at hand, becoming the best coder I can. One who can create the programs he wants at will and is continually evolving with the new technological landscape. So right now I am trying to find a life balance where I can keep learning at a pace I am happy with, and I don’t ruin the other aspects of my life by going through the motions during them while my mind is really trying to decipher a problem. I’ll let you know how it goes in my next post, but I am positive that moving into the creation of applications and developing items more freely based on our personalities and interests will help a great deal in this area.
